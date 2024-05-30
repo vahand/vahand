@@ -1,5 +1,5 @@
 ## 👋 Hi there
-# I'm Vahan Ducher
+### I'm Vahan Ducher
 
 ## 🎯 About me
 - 🎓 Student at EPITECH Technology, Lyon
