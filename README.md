@@ -1,6 +1,5 @@
 ## 👋 Hi there
 ### 🙋‍♂️ I'm Vahan Ducher
-### 🔎 I am currently looking for an intership in IT and new technologies
 
 ## 🎯 About me
 - 🎓 Student at EPITECH Technology, Lyon
