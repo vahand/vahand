@@ -12,6 +12,7 @@
 [![text](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/VahanDucher/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)
 
 <!--
 **vahand/vahand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
