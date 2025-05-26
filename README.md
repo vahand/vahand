@@ -11,6 +11,7 @@
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahan-ducher-413501214/?originalSubdomain=fr)
 [![text](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/VahanDucher/)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <!--
 **vahand/vahand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
