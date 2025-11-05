@@ -11,18 +11,6 @@
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahan-ducher-413501214/?originalSubdomain=fr)
 [![text](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/VahanDucher/)
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=vahand&show_icons=true&theme=transparent" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahand&layout=compact&theme=transparent" />
-    </td>
-  </tr>
-</table>
-
-
 <!--
 **vahand/vahand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
