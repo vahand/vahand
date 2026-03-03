@@ -1,11 +1,31 @@
 ## 👋 Hi there
 ### 🙋‍♂️ I'm Vahan Ducher
+### 🔎 Currently looking for an internship
 
 ## 🎯 About me
-- 🎓 Student at EPITECH Technology, Lyon
+- 🎓 Student at EPITECH Technology, Lyon 🇫🇷 | Hochschule für Technik, Stuttgart 🇩🇪
 - 👨‍💻 Developer in some languages
-- 📲 Particularly interested in Mobile Development
 - ✉️ Contact me at: vahan.ducher@icloud.com
+
+## Skills
+### Programation languages
+- C
+- C++
+- Java
+
+### iOS Development
+- Swift
+- SwiftUI
+- UIKit
+- SwiftData
+- XCode
+- iOS
+- macOS
+
+### Autres
+- Keycloak
+- Linux
+- Git
 
 ## 🌐 Social
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahan-ducher-413501214/?originalSubdomain=fr)
