@@ -12,6 +12,8 @@
 - C
 - C++
 - Java
+- Springboot
+- Maven
 
 ### iOS Development
 - Swift
@@ -22,10 +24,22 @@
 - iOS
 - macOS
 
-### Autres
+### Web Development
+- TypeScript
+- React
+- Tailwind CSS
+
+### Containers
+- Docker
+- Kubernetes
+
+### AI
+
+### Outils
 - Keycloak
 - Linux
 - Git
+- PostgreSQL
 
 ## 🌐 Social
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vahan-ducher-413501214/?originalSubdomain=fr)
