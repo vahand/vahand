@@ -7,7 +7,7 @@
 - 👨‍💻 Developer in some languages
 - ✉️ Contact me at: vahan.ducher@icloud.com
 
-## Skills
+## 🚀 Skills
 ### Software development
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
